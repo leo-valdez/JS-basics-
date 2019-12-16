@@ -17,7 +17,7 @@ To gain the final simulation small parts needs to done first:
 3) Simulating gravity effect on 2 moving objects.(gravity2)
 (will be uploaded soon)
 
-<h2>FUTURE WOKR</h2>
+<h2>FUTURE WORK</h2>
 1) Simulating gravity effect on many moving objects.(many_gravity)
 2) Simulating moving objects gravity and movement using perlin noise lines.(PNL_gravity)
 3) Hopefully adding all this up will help in simulation of small universe.
